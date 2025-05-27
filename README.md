@@ -32,4 +32,10 @@ Summary:This is a code that can be use for various ticket pricing because it cac
 Key Features: 
 - use user input in order to generate a price/ticket
 - has multiple condition in order to print the info for the ticket
-- varible that are easy and quick to understand and change
+- varible that are easy and quick to understand and change\
+
+Project 6: Flower boquet generator
+
+Project 7: Magic 8 ball
+
+Project 8: Slot Machine 
