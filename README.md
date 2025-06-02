@@ -1,4 +1,4 @@
-#Aortfolio
+#AP portfolio
 Collection of work I've done at jones college prep
 One of my personal favorite coding project has been desiging a pokemon game that uses images and depicts the evolututions of squirtle. Along with other projects that include a vairty of requirment such as a type of loops,if statements,variables, and etc.
 
@@ -35,7 +35,19 @@ Key Features:
 - varible that are easy and quick to understand and change\
 
 Project 6: Flower boquet generator
+Summary: THis is a code that uses various coding function in order to generate a boquet for the flowers by asking for their input and various things and provides a list,
+-uses list
+-has multiple boolean condition
+-ap project
 
 Project 7: Magic 8 ball
+Summary: uses a list and random in order to generate a respones for the user for their question by giving them a quote chosen from random from the list
+-uses random
+-uses list
+-has boolean varribales.
 
 Project 8: Slot Machine 
+Summary: This is a replica of a slot machine where it uses if statment and list in order to determind if something is 3 in a row and what is a jackpot
+-uses varibale to control money
+-ues list
+-can add money
